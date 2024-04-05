@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Nicolas Leenaerts"
+title                    : "Personal Website"
 title_separator          : "-"
 name                     : &name "Nicolas Leenaerts"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "46961838_10217316693658902_2444112025245188096_n.jpeg"
   name             : "Nicolas Leenaerts"
   pronouns         : # example: "she/her"
-  bio              : "Psychiatry Resident | Cognitive Behavioral Therapist In Training | Researcher"
+  bio              : "Psychiatry Resident \n Cognitive Behavioral Therapist In Training \n Researcher"
   location         : "Leuven, Belgium"
   employer         : "KU Leuven"
   uri              : # URL
