@@ -1,11 +1,14 @@
 ---
 permalink: /
-title: ""
+title: " "
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
+
+> [!NOTE]  
+> Currently looking for partners to organise a self-funded postdoc on the use of machine learning and reinforcement learning for JITAIs
 
 ## Who is Nicolas Leenaerts
 
