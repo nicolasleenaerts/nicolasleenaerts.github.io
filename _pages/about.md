@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-Well, that's me! A psychiatry resident at both Zorggroep Sint-Kamillus and the penitentiary of Merksplas. Additionally, I'm training in cognitive behavioral therapy, and I'm engaged in research at KU Leuven.
+Well, that's me! A psychiatry resident at both Zorggroep Sint-Kamillus and the penitentiary of Merksplas in Belgium. Additionally, I'm training in cognitive behavioral therapy, and I'm engaged in research at the KU Leuven.
 
 ## What is Belgium?
-Belgium is a country nestled in the heart of Western Europe. It's not only my home but also the place where I pursued my university education and where I currently work.
+Belgium is a country nestled in the heart of Western Europe. It's not only my home but also the place where I went to university and where I currently work.
 
 <br/><img src='/images/Belgium.png' width="423" height="564">
-<br/><sup><sub>Source: Belgium at a glance, belgium.be</sub></sup>
+<br/><sup><sub>Source: Brochure "Belgium at a glance", belgium.be</sub></sup>
 
 Specifically, I attended the KU Leuven to study medicine. Afterwards, I started my psychiatry residency and earned my PhD in Biomedical Sciences under the guidance of Professor Elske Vrieze. My doctoral research focused on investigating the relation between stress, negative affect, and binge behavior with the Experience Sampling Method (ESM), Magnetic Resonance Imaging (MRI), and Positron Emission Tomography (PET). I bundled my research findings in a thesis titled 'Spinning Out Of Control: How Stress And Negative Affect Lead To Binge Behavior In Bulimia Nervosa And Alcohol Use Disorder.'
 
