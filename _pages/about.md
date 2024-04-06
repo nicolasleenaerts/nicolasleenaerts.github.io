@@ -1,13 +1,17 @@
 ---
 permalink: /
-title: "Who is Nicolas Leenaerts?"
+title: ""
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-> *** Currently looking for partners for a self-funded postdoc on the use of machine learning and reinforcement learning for JITAIs *** 
+<div style="background: #E7F0FF; border: 1px dashed #4786FF; border-radius: 2px; padding: 1rem; margin-bottom: 1rem">
+ <span style="font-weight: bold; color: #4786FF; padding-right: 0.5rem;">ⓘ Note</span>
+ Currently looking for partners for a self-funded postdoc on the use of machine learning and reinforcement learning for JITAIs
+
+## Who is Nicolas Leenaerts
 
 Well, that's me! A psychiatry resident at both Zorggroep Sint-Kamillus and the penitentiary of Merksplas in Belgium. Additionally, I'm training in cognitive behavioral therapy, and I'm engaged in research at the KU Leuven.
 
