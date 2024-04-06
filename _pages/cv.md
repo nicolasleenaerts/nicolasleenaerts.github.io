@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="https://nicolasleenaerts/nicolasleenaerts.github.io/files/Curriculum Vitae Nicolas Leenaerts.pdf" type="application/pdf" width="600px" height="500px" />
+<embed src="https://github.com/nicolasleenaerts/nicolasleenaerts.github.io/tree/master/files/Curriculum_Vitae_Nicolas_Leenaerts.pdf" type="application/pdf" width="600px" height="500px" />
