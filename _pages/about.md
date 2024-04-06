@@ -7,19 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-Well, Nicolas Leenaerts, that's me! A psychiatry resident at Zorggroep Sint-Kamillus and the penitentiary of Merksplas, a cognitive behavioral therapy trainee, and a researcher at the KU Leuven.
+Well, that's me! A psychiatry resident at both Zorggroep Sint-Kamillus and the penitentiary of Merksplas. Additionally, I'm training in cognitive behavioral therapy, and I'm engaged in research at KU Leuven.
 
 ## What is a Belgium?
-Belgium is a small country in the centre of Western-Europe, and the place I call home.
+Belgium, nestled in the heart of Western Europe, is not only my home but also the place where I pursued my university education and whereI currently work.
 
 <br/><img src='/images/Belgium.png' width="423" height="564">
-<sup><sub>Source: Belgium at a glance</sub></sup>
+<br/><sup><sub>Source: Belgium at a glance</sub></sup>
 
-It also the place where I went to university to study medicine. Specifically, I attended the KU Leuven, a 600-year-old institution with famous alumni such as Erasmus and Vesalius. Additionally, it is also the university where I achieved my PhD in Biomedical Sciences under the supervision of prof. Elske Vrieze. Specifically, I conducted a study on the role of stress and negative affect in binge behavior in patients with bulimia nervosa and/or an alcohol use disorder with the Experience Sampling Method (ESM), Magnetic Resonance Imaging (MRI), and Positron Emission Tomography (PET). I bundled the results of this study in  a thesis called 'Spinning Out Of Control: How Stress And Negative Affect Lead To Binge Behavior In Bulimia Nervosa And Alcohol Use Disorder.'
+Specifically, I attended the KU Leuven to study medicine. Afterwards, I started my psychiatry residency and earned my PhD in Biomedical Sciences under the guidance of Professor Elske Vrieze. My doctoral research focused on investigating the relation between stress, negative affect, and binge behavior with the Experience Sampling Method (ESM), Magnetic Resonance Imaging (MRI), and Positron Emission Tomography (PET). I bundled my research findings in a thesis titled 'Spinning Out Of Control: How Stress And Negative Affect Lead To Binge Behavior In Bulimia Nervosa And Alcohol Use Disorder.'
 
-# So what are your research interest?
+## So what are your current research interest?
 
-During my PhD, I became and more interested in all things related to machine learning. Specifically, I am passionate about the development of prediction models for a Just-In-Time Adaptive Intervention (JITAI). In a JITAI, interventions are delivered in  real-time when patients need them the most, and I am convinced that they will be a breakthrough in the history of psychotherapy. Furthermore, I have experience in conducting studies using Ecological Momentary Assessment (EMA) or the Experience Sampling Method (ESM), Magnetic Resonance Imaging (MRI), and Positron Emission Tomography (PET).
+During my PhD, I became and more interested in all things related to machine learning. Specifically, I am passionate about the development of prediction models for a Just-In-Time Adaptive Intervention (JITAI). In a JITAI, interventions are delivered in  real-time when patients need them the most, and I am convinced that they will be a breakthrough in the history of psychotherapy.
 
 
 
