@@ -7,16 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-Well, Nicolas Leenaerts, that's me! I consider myself lucky to be able to combine being a psychiatry resident, a psychotherapist in training, and a researcher.
+Well, Nicolas Leenaerts, that's me! A psychiatry resident at Zorggroep Sint-Kamillus and the penitentiary of Merksplas, a cognitive behavioral therapy trainee, and a researcher at the KU Leuven.
 
-When it comes to research, I have a passion for all things related to machine learning. Specifically, I am particularly interested in the development of prediction models for Just-In-Time Adaptive Interventions (JITAI). In a JITAI, interventions are delivered in  real-time when patients need them the most, and I am convinced that they will be considered a breakthrough in the history of psychotherapy.
+# What is a Belgium?
+Belgium is a small country in the centre of Western-Europe, and the place I call home.
+
+<br/><img src='/images/Belgium.png'>
+
+It also the place where I went to university to study medicine. Specifically, I attended the KU Leuven, a 600-year-old institution with famous alumni such as Erasmus and Vesalius. Additionally, it is also the university where I achieved my PhD in Biomedical Sciences under the supervision of prof. Elske Vrieze. Specifically, I conducted a study on the role of stress and negative affect in binge behavior in patients with bulimia nervosa and/or an alcohol use disorder with the Experience Sampling Method (ESM), Magnetic Resonance Imaging (MRI), and Positron Emission Tomography (PET). I bundled the results of this study in  a thesis called 'Spinning Out Of Control: How Stress And Negative Affect Lead To Binge Behavior In Bulimia Nervosa And Alcohol Use Disorder.'
+
+# So what are your research interest?
+
+When it comes to research, I have a passion for all things related to machine learning. Specifically, I am  interested in the development of prediction models for a Just-In-Time Adaptive Intervention (JITAI). In a JITAI, interventions are delivered in  real-time when patients need them the most, and I am convinced that they will be a breakthrough in the history of psychotherapy. Furthermore, I have experience in conducting studies using Ecological Momentary Assessment (EMA) or the Experience Sampling Method (ESM), Magnetic Resonance Imaging (MRI), and Positron Emission Tomography (PET).
 
 
-Researcher with a passion for machine  learning, especially building clinical prediction modelsl for JITAIs with a more recent interest, however experience in setting up and conducting EMA/ESM studies, as well as MRI and PET studies.
 
-
-What is a Belgium?
-======
 
 
 
