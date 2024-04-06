@@ -2,7 +2,7 @@
 title: "The impact of mindfulness on cancer-related cognitive impairment in breast cancer survivors with cognitive complaints"
 collection: publications
 permalink: /publication/Mindfulness_Cancer_Cognitive
-excerpt: 'In this study, the potential of a mindfulness-based intervention to reduce CRCI in breast cancer survivors, compared with physical training and a wait list control group, was investigated.'
+excerpt: 'In this study, the potential of a mindfulness-based intervention to reduce cancer-related cognitive impairment in breast cancer survivors, compared with physical training and a wait list control group, was investigated.'
 date: 2023-01-10
 venue: 'Cancer'
 paperurl: 'http://nicolasleenaerts.github.io/files/Mindfulness_Cancer_Cognitive.pdf'
