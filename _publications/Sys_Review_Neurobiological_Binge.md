@@ -1,5 +1,5 @@
 ---
-title: "TThe neurobiological reward system and binge eating: A critical systematic review of neuroimaging studies"
+title: "The neurobiological reward system and binge eating: A critical systematic review of neuroimaging studies"
 collection: publications
 permalink: /publication/Sys_Review_Neurobiological_Binge
 excerpt: 'Systematic review of papers studying the neurobiological reward system in binge eating. A search was conducted of articles published until March 31, 2022. Neuroimaging studies were eligible if they wanted to study the reward system and included a group of individuals who binge eat together with a comparator group. Their results were summarized in a narrative synthesis.'
