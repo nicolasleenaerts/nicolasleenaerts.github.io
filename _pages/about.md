@@ -9,7 +9,7 @@ redirect_from:
 
 <div style="background: #E7F0FF; border: 1px dashed #4786FF; border-radius: 2px; padding: 1rem; margin-bottom: 1rem">
  <span style="font-weight: bold; color: #4786FF; padding-right: 0.5rem;">ⓘ Note</span>
- Currently looking for partners for a self-funded postdoc on the use of machine learning and reinforcement learning for JITAIs
+ Currently looking for partners to organise a self-funded postdoc on the use of machine learning and reinforcement learning for JITAIs
 
 ## Who is Nicolas Leenaerts
 
