@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Personal Website"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Nicolas Leenaerts"
 description              : &description "personal description"
