@@ -1,6 +1,6 @@
 ---
 title: "Nicolas Leenaerts Scripts"
-excerpt: "Github repository containing scripts that were developed by me for my research, but they can be used by anybody who thinks that they can help with their own research."
+excerpt: "Github repository containing scripts that were developed to analyze EMA/ESM, fMRI, and PET data."
 collection: portfolio
 ---
 
