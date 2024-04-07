@@ -34,18 +34,6 @@ Beyond the practical application of machine learning, I'm invested in advancing 
 
 Looking ahead, I'm eager to broaden my expertise in reinforcement learning. To do so, I'm seeking partnerships for a self-funded postdoctoral project focused on the integration of reinforcement learning within the realm of JITAIs.
 
-Throughout my PhD journey, my fascination with machine learning has grown steadily. Particularly, my passion lies in crafting prediction models tailored for Just-In-Time Adaptive Interventions (JITAIs). JITAIs offer real-time interventions precisely when individuals need them most, marking what I believe will be a significant breakthrough in psychotherapy. Collaborating with esteemed academics like Peter Soyster and Professor Aaron Fisher from UC Berkeley, I've delved into constructing both pooled and person-specific prediction models. These models focus on daily life behaviors such as eating and alcohol consumption among patients with bulimia nervosa or alcohol use disorder. Additionally, alongside Professor Kelsey Hagan from Virginia Commonwealth University and Professor Lisa Ranzenhofer from Columbia University, I've extended this work to adolescents, developing prediction models for loss-of-control eating and overeating.
-
-Moreover, in partnership with researchers from KU Leuven, I've contributed to building prediction models for patient survival in conditions like amyotrophic lateral sclerosis and assessing motor function in cerebral palsy patients. These projects are nearing completion, and I anticipate publishing our findings in the coming months.
-
-Beyond the practical application of machine learning, I'm deeply invested in advancing methodological knowledge within the field. Teaming up with Professor Maarten Van Smeden from UMC Utrecht, I'm currently engaged in a simulation study to assess various multiple imputation strategies in penalized regression prediction models. Furthermore, I advocate for open science principles and have developed several GitHub repositories aimed at facilitating the construction of methodologically sound prediction models for fellow researchers.
-
-
-
-
-
-
-
 
 ## What's my clinical work about?
 
