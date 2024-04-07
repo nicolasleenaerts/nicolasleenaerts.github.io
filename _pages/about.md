@@ -34,11 +34,8 @@ Beyond the practical application of machine learning, I'm invested in advancing 
 
 Looking ahead, I'm eager to broaden my expertise in reinforcement learning. To do so, I'm seeking partnerships for a self-funded postdoctoral project focused on the integration of reinforcement learning within the realm of JITAIs.
 
-
 ## What's my clinical work about?
 
-previous work
+In August 2018, I started my psychiatry residency at UPC KU Leuven. There, I worked in ambulatory care, gaining experience in treating patients with anxiety disorders, depression, eating disorders, ADHD, and autism spectrum disorder. After the end of my PhD, in February 2023, I started working in OPZ Geel on the High and Intensive Care unit and in the Mobile Crisis Team, learning how to treat patients with a variety psychiatric disorders that were in a crisis. Since October 2023, I am working at Zorggroep Sint-Kamillus and the penitentiary of Merksplas, where I provide care to patients in a forensic psychiatry setting.
 
-current work
-
-psychotherapy
+Additionally, I started training in cognitive behavioral therapy (CBT) in 2022, and provide CBT to several patients on an ambulatory basis. I am especially interested in providing psychotherapy to patients with a substance use disorder.
