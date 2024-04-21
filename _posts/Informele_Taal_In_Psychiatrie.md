@@ -1,9 +1,9 @@
 ---
 title: 'Waarom afglijden enkel in de speeltuin thuishoort'
 date: 2024-04-21
-permalink: /posts/2024/04/blog-post-1/
+permalink: /posts/2012/08/Informele_Taal_In_Psychiatrie/
 tags:
-  - Euthanasia
+  - Language
 ---
 
 Toen ik in de gevangenis voor de eerste keer mijn collega’s hoorde vertellen dat een gevange aan het ‘afglijden’ was, werd ik overmand door verbazing. Seconden lang vroeg ik mij af waar die glijbaan stond en of er meer dan één gevange van afgleed. Tot mijn grote spijt besefte ik snel dat er geen speeltuin in de gevangenis was, maar dat mijn collega’s hun bezorgdheid over de paranoïde wanen van een gevange aan het uiten waren.
