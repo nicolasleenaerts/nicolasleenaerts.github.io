@@ -1,6 +1,6 @@
 ---
 title: 'Waarom afglijden enkel in de speeltuin thuishoort'
-date: 2024-04-21
+date: 2024-04-20
 permalink: /posts/2012/08/blog-post-1/
 tags:
   - Language
