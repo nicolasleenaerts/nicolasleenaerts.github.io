@@ -1,7 +1,7 @@
 ---
 title: 'Waarom afglijden enkel in de speeltuin thuishoort'
 date: 2024-04-21
-permalink: /Informele_Taal_In_Psychiatrie/
+permalink: /posts/2024/04/blog-post-1/
 tags:
   - Euthanasia
 ---
