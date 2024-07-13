@@ -8,3 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+{% for post in site.press reversed %}
+  {% include archive-single.html %}
+{% endfor %}
