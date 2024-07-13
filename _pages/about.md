@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-> **Note:** Currently looking for partners to organise a self-funded postdoc on the use of machine learning and reinforcement learning in JITAIs
-
 # Who is Nicolas Leenaerts?
 
 Well, that's me! A psychiatry resident at both Zorggroep Sint-Kamillus and the penitentiary of Merksplas in Belgium. Additionally, I'm training in cognitive behavioral therapy and doing research at the KU Leuven.
