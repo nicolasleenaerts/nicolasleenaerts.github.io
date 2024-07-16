@@ -1,5 +1,5 @@
 ---
-title: "KU Leuven en AI: voorspeelt app binnenkort of we eetstoornis of drang naar alcohol gaan krijgen?"
+title: "KU Leuven en AI: voorspelt app binnenkort of we eetstoornis of drang naar alcohol gaan krijgen?"
 collection: talks
 type: "Talk"
 permalink: /talks/ROB_Nieuws_16_07_2024
