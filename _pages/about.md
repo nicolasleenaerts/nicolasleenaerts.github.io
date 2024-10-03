@@ -9,7 +9,7 @@ redirect_from:
 
 # Who is Nicolas Leenaerts?
 
-Well, that's me! A psychiatry resident at both Zorggroep Sint-Kamillus and the penitentiary of Merksplas in Belgium. Additionally, I'm training in cognitive behavioral therapy and doing research at the KU Leuven.
+Well, that's me! A psychiatry resident working on Franciscus at UPC KU Leuven in Belgium, the semi-residential treatment program for patients with an alcohol use disorder, cannabis use disorder, or benzodiazepine use disorder. Additionally, I'm training in cognitive behavioral therapy and doing research at the KU Leuven.
 
 ## What is Belgium?
 Belgium is a country nestled in the heart of Western Europe. It's not only my home, but also the place where I went to university and where I currently work.
@@ -34,6 +34,6 @@ Looking ahead, I'm eager to broaden my expertise in reinforcement learning. To d
 
 ## What's my clinical work about?
 
-In August 2018, I started my psychiatry residency at UPC KU Leuven. There, I worked in ambulatory care, gaining experience in treating patients with anxiety disorders, depression, eating disorders, ADHD, and autism spectrum disorder. After the end of my PhD, in February 2023, I started working in OPZ Geel on the High and Intensive Care unit and in the Mobile Crisis Team, learning how to treat patients with a variety of psychiatric disorders that were in a crisis. Since October 2023, I am working at Zorggroep Sint-Kamillus and the penitentiary of Merksplas, where I provide care to patients in a forensic psychiatry setting.
+In August 2018, I started my psychiatry residency at UPC KU Leuven. There, I worked in ambulatory care, gaining experience in treating patients with anxiety disorders, depression, eating disorders, ADHD, and autism spectrum disorder. After the end of my PhD, from February 2023 until September 2023, I worked on the High and Intensive Care unit in OPZ Geel and in the Mobile Crisis Team of GGZ Kempen, learning how to treat patients who had a variety of psychiatric disorders and were in a crisis. Afterwards, between October 2023 and September 2024, I worked at Zorggroep Sint-Kamillus and the penitentiary of Merksplas, where I provided care to patients in a forensic psychiatry setting. Since October 2024, I work in the semi-residential treatment program for patients with an alcohol use disorder, cannabis use disorder, or benzodiazepine use disorder at UPC KU Leuven in Belgium.
 
-Additionally, I started training in cognitive behavioral therapy (CBT) in 2022, and provide CBT to several patients on an ambulatory basis. I am especially interested in providing psychotherapy to patients with a substance use disorder.
+Additionally, I started training in cognitive behavioral therapy (CBT) in 2022, and provide CBT to several patients on an ambulatory basis. I am especially interested in providing psychotherapy to patients with a substance use disorder and post-traumatic stress disorder.
