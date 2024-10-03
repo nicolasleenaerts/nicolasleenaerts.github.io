@@ -1,10 +1,10 @@
 ---
-title: "Exploring structural connectomes in children with unilateral cerebral palsy using graph theory"
+title: "The relation between visual functions, functional vision, and bimanual function in children with unilateral cerebral palsy"
 collection: publications
-permalink: /publication/Connectomes_Palsy
-excerpt: 'Paper exploring structural brain connectomes in children with spastic unilateral cerebral palsy and its relation to sensory-motor function using graph theory'
-date: 2023-02-25
-venue: 'Human Brain Mapping'
-paperurl: 'http://nicolasleenaerts.github.io/files/Connectomes_Palsy.pdf'
-citation: 'Radwan, A., Decraene, L., Dupont, P., Leenaerts, N., Simon-Martinez, C., Klingels, K., Ortibus, E., Feys, H., Sunaert, S., Blommaert, J., & Mailleux, L. (2023). Exploring structural connectomes in children with unilateral cerebral palsy using graph theory. Human brain mapping, 44(7), 2741–2753. https://doi.org/10.1002/hbm.26241'
+permalink: /publication/visual_functions_palsy
+excerpt: 'Paper investigating the relation between visual functions, functional vision, and bimanual function in children with unilateral cerebral palsy (uCP)'
+date: 2024-09-01
+venue: 'Research in Developmental Disabilities'
+paperurl: 'http://nicolasleenaerts.github.io/files/visual_functions_palsy.pdf'
+citation: 'Crotti, M., Ortibus, E., Ben Itzhak, N., Kleeren, L., Decraene, L., Leenaerts, N., Feys, H., & Mailleux, L. (2024). The relation between visual functions, functional vision, and bimanual function in children with unilateral cerebral palsy. Research in developmental disabilities, 152, 104792. https://doi.org/10.1016/j.ridd.2024.104792'
 ---
