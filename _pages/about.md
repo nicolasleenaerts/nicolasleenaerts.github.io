@@ -9,31 +9,40 @@ redirect_from:
 
 # Who is Nicolas Leenaerts?
 
-Well, that's me! A psychiatry resident working on Franciscus at UPC KU Leuven in Belgium, the semi-residential treatment program for patients with an alcohol use disorder, cannabis use disorder, or benzodiazepine use disorder. Additionally, I'm training in cognitive behavioral therapy and doing research at the KU Leuven.
+Well, that’s me! I’m currently a BAEF post-doctoral research fellow in the Statistical Reinforcement Learning Lab led by Susan Murphy at Harvard University. I’m also a psychiatrist and a cognitive behavioral therapist in training.
 
-## What is Belgium?
-Belgium is a country nestled in the heart of Western Europe. It's not only my home, but also the place where I went to university and where I currently work.
+On this website, you can learn more about my background, explore my current research and clinical interests, and see examples of my work. Feel free to reach out if you’d like to connect!
 
-<br/><img src='/images/Belgium.png' width="423" height="564">
-<br/><sup><sub>Source: Brochure "Belgium at a glance", belgium.be</sub></sup>
+## Background
 
-## What is the KU Leuven?
+Everybody needs to be born somewhere, and for me, that was Belgium, a small country nestled in the heart of Western Europe.
 
-<br/><img src='/images/KULeuven.jpeg' width="531" height="178">
-<br/><sup><sub>Source: kuleuven.be</sub></sup>
+<br/><img src='/images/Belgium_2.png' width="486" height="359">
+<br/><sup><sub>Source: Google Maps</sub></sup>
 
-The KU Leuven is a 600-year old university in Belgium with famous alumni such as Erasmus and Vesalius. I attended the KU Leuven to study medicine. Afterwards, I started my psychiatry residency and earned my PhD in Biomedical Sciences under the guidance of Professor Elske Vrieze. My doctoral research focused on investigating the relation between stress, negative affect, and binge behavior with the Experience Sampling Method (ESM), Magnetic Resonance Imaging (MRI), and Positron Emission Tomography (PET). I bundled my research findings in a thesis titled 'Spinning Out Of Control: How Stress And Negative Affect Lead To Binge Behavior In Bulimia Nervosa And Alcohol Use Disorder.'
+It was a great place to grow up in, but during my youth, I witnessed firsthand the impact that psychiatric disorders can have. That experience has been a driving force in my desire to understand the human mind and support people struggling with their mental health, as well as those around them.
+
+To begin, I started reading books about psychiatry at secondary school to help me understand. This curiosity then led me to study medicine at KU Leuven, where I chose to specialize in psychiatry. However, my curiosity wasn’t satisfied with simply learning from books, which led me to go into research and discover new knowledge myself. During my Master’s program, I became a student researcher, investigating barriers to healthcare access among individuals of Turkish and Middle-Eastern descent. Later, I pursued a PhD on the role of stress and negative affect in patients with bulimia nervosa and alcohol use disorder under the guidance of Professor Elske Vrieze. During those years, I discovered my passion for statistics, coding, and machine learning.
+
+I was lucky to be able to spend time in the Ideographic Dynamics Lab at UC Berkeley where I deepened my understanding of machine learning and developed prediction models for binge eating, alcohol use, and binge drinking in daily life.
+
+However, I don’t just want to understand. I want to make a difference for those who struggle. That’s why I’m so interested in just-in-time adaptive interventions (JITAIs), which provide support in daily life precisely when people need it most. Thanks to the Belgian American Educational Foundation (BAEF) and the UZ Leuven Future Fund, I’m able to spend my time as a postdoctoral researcher in Susan Murphy’s Statistical Reinforcement Learning Lab, working on the development of these interventions.
 
 ## So what are my current research interests?
 
-During my PhD, I became more and more interested in all things related to machine learning. Specifically, I am passionate about the development of prediction models for a Just-In-Time Adaptive Intervention (JITAI). In a JITAI, interventions are delivered in real-time when patients need them the most, and I am convinced that they will be a breakthrough in the history of psychotherapy. With the help of Peter Soyster (UC Berkeley) and prof. Aaron Fisher (UC Berkeley), I have built pooled and person-specific prediction models for daily life eating and alcohol use behavior in patients with bulimia nervosa or alcohol use disorder. In a collaboration with prof. Kelsey Hagan (Virginia Commonwealth University) and prof. Lisa Ranzenhofer (Columbia University), I have developed pooled and person-specific prediction models for daily life loss-of-control eating and overeating in adolescents. You can find the preprints of this work on PsyArXiv by clicking the link in the sidebar on the left. Together with researchers of the KU Leuven, I have built prediction models for the survival of patients with amyotrophic lateral sclerosis and for the motor function of patients with cerebral palsy. I hope to come out with this work in the coming months.
+During my PhD, I developed a deep fascination with all things related to machine learning. In particular, I’m passionate about creating models for Just-In-Time Adaptive Interventions (JITAIs), which deliver support in people’s daily lives tailored to their individual needs.
 
-Beyond the practical application of machine learning, I'm invested in advancing methodological knowledge within the field. With the help of prof. Maarten Van Smeden (UMC Utrecht), I am working on a simulation study to evaluate different multiple imputation strategies in penalized regression prediction models.  Furthermore, I am a strong believer in sharing tools with other researchers. Therefore, there are several github repositories that on the 'Projects' page  that allow researchers to build methodologically correct prediction models.
+With the help of Peter Soyster and Prof. Aaron Fisher (UC Berkeley), I applied supervised machine learning to develop both pooled and person-specific prediction models for daily eating and alcohol use behaviors in patients with bulimia nervosa or alcohol use disorder. In collaboration with Prof. Kelsey Hagan (Virginia Commonwealth University) and Prof. Lisa Ranzenhofer (Columbia University), I created similar models to predict daily loss-of-control eating and overeating in adolescents. Together with researchers at KU Leuven, I also built prediction models for the survival of patients with amyotrophic lateral sclerosis and for the motor function of patients with cerebral palsy. You can find publications on this work in the “Publications” tab.
 
-Looking ahead, I'm eager to broaden my expertise in reinforcement learning. To do so, I'm seeking partnerships for a self-funded postdoctoral project focused on the integration of reinforcement learning within the realm of JITAIs.
+I’m currently a BAEF postdoctoral research fellow in Susan Murphy’s lab at Harvard University, collaborating with Prof. Lara Coughlin (University of Michigan) and Prof. Stephanie Goldstein (Brown University). My work focuses on using off-policy methods to develop reinforcement learning algorithms from previously collected data, with the goal of creating policies that determine which actions should be taken in which states to help people manage cravings for cannabis or food.
+
+I’m also a strong believer in open science and sharing tools with other researchers. On the “Projects” page, you’ll find several GitHub repositories that provide resources for building methodologically sound prediction models.
+
 
 ## What's my clinical work about?
 
-In August 2018, I started my psychiatry residency at UPC KU Leuven. There, I worked in ambulatory care, gaining experience in treating patients with anxiety disorders, depression, eating disorders, ADHD, and autism spectrum disorder. After the end of my PhD, from February 2023 until September 2023, I worked on the High and Intensive Care unit in OPZ Geel and in the Mobile Crisis Team of GGZ Kempen, learning how to treat patients who had a variety of psychiatric disorders and were in a crisis. Afterwards, between October 2023 and September 2024, I worked at Zorggroep Sint-Kamillus and the penitentiary of Merksplas, where I provided care to patients in a forensic psychiatry setting. Since October 2024, I work in the semi-residential treatment program for patients with an alcohol use disorder, cannabis use disorder, or benzodiazepine use disorder at UPC KU Leuven in Belgium.
+From August 2018 to July 2025, I completed my psychiatry residency at KU Leuven. During this time, I gained experience across a wide range of settings: providing outpatient care for patients with anxiety or major depressive disorders, diagnosing ADHD and ASD, supporting people in crisis on a High & Intensive Care unit, treating patients in forensic settings, and helping individuals struggling with addiction.
 
-Additionally, I started training in cognitive behavioral therapy (CBT) in 2022, and provide CBT to several patients on an ambulatory basis. I am especially interested in providing psychotherapy to patients with a substance use disorder and post-traumatic stress disorder.
+In 2022, I began training in cognitive behavioral therapy (CBT). Over the years, I have treated a broad spectrum of mental health disorders, but my particular interest lies in providing psychotherapy for patients with substance use disorders and post-traumatic stress disorder.
+
+After my postdoctoral fellowship at Harvard University, I plan to return to Belgium to work as a psychiatrist at UPC KU Leuven, aiming to combine clinical practice with research.
