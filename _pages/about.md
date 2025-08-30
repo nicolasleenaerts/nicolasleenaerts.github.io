@@ -9,7 +9,7 @@ redirect_from:
 
 # Who is Nicolas Leenaerts?
 
-Well, that’s me! I’m currently a BAEF post-doctoral research fellow in the Statistical Reinforcement Learning Lab led by Susan Murphy at Harvard University. I’m also a psychiatrist and a cognitive behavioral therapist in training.
+Well, that’s me! I’m currently a BAEF post-doctoral Research Fellow in the Statistical Reinforcement Learning Lab led by Susan Murphy at Harvard University. I’m also a psychiatrist and a cognitive behavioral therapist in training.
 
 On this website, you can learn more about my background, explore my current research and clinical interests, and see examples of my work. Feel free to reach out if you’d like to connect!
 
