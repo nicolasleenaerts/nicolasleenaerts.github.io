@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/PhD_Defence
 venue: "Promotiezaal, KU Leuven"
-date: 2023-09-01
+date: 2023-09-11
 location: "Leuven, Belgium"
 ---
 
